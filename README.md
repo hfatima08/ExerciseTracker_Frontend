@@ -83,3 +83,22 @@ User Login:
 
 
 ![Screenshot (21)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/0ff9b2ea-9335-48f4-abc2-7f45c9ad2470)
+
+
+View Activity:
+
+
+![Screenshot (15)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/f6a045cc-1808-4161-87f8-f0a33a066ec8)
+
+
+Add Activity:
+
+
+![Screenshot (9)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/440530ac-d20d-4840-a3a2-a5e82f01fe07)
+
+
+Edit Activity:
+
+
+![Screenshot (12)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/3949c220-9c81-4d4b-8902-5be229c23b29)
+
