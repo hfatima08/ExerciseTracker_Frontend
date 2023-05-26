@@ -102,3 +102,10 @@ Edit Activity:
 
 ![Screenshot (12)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/3949c220-9c81-4d4b-8902-5be229c23b29)
 
+Delete Activity
+
+
+![Screenshot (16)](https://github.com/hfatima08/ExerciseTracker_Frontend/assets/57981147/f730e595-52ff-4eb2-bf10-0b0d679ba11f)
+
+
+
