@@ -64,6 +64,6 @@ Start the project
 ```bash
   npm run dev
 ```
-** Do run the backend while running the project**
+**Do run the backend while running the project**
 
 
