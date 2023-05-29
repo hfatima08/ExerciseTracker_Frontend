@@ -1,8 +1,8 @@
 # ExerciseTracker_Frontend
 Exercise tracker web application built for users to maintain a healthy lifestyle. The application provides user to create it's account and start scheduling activities.
 
-This repository consists of the frontend code. For backend refer: 
-
+This repository consists of the client side code. For server refer: 
+https://github.com/hfatima08/ExerciseTracker_Server.git
 
 ## Features
 
@@ -22,16 +22,6 @@ This repository consists of the frontend code. For backend refer:
 
 **Database:** Mongo DB 
 
-
-## Installation
-First, clone the repository and cd into the project
-
-```bash
-git clone https://github.com/antoniosarosi/MERN-Exercise-Tracker.git](https://github.com/hfatima08/ExerciseTracker_Frontend.git)
-cd ExerciseTracker_Frontend
-```
-
-
     
 ## Local Setup
 
@@ -40,7 +30,8 @@ cd ExerciseTracker_Frontend
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/hfatima08/ExerciseTracker_Frontend.git
+
 ```
 
 Go to the project directory
